@@ -1,0 +1,1 @@
+# SmartAI_entityExtractionOfManyDocsType_using_OLLAMA
